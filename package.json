@@ -1,0 +1,15 @@
+{
+  "name": "send-whatsapp-with-node",
+  "version": "1.0.0",
+  "description": "Send a WhatsApp message using Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garann Means",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2"
+  }
+}
