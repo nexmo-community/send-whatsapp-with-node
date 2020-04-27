@@ -14,3 +14,5 @@ Clone the repository to a new directory on your machine and:
    ```
    Your username and password are your Vonage API key and secret. You can copy the from number from the cURL command at the bottom of the sandbox page, and the to number is the device number you've whitelisted.
 3. Run `node app.js` to send a test message
+
+Read about how this code works on the [Vonage Developer blog](https://www.nexmo.com/blog/2020/04/15/send-a-whatsapp-message-with-node-dr) ☞
